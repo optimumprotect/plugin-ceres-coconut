@@ -1,5 +1,226 @@
-/* Enter your CSS here */
-body{
-  color:aqua;
-  background-color:black;
+@import url('https://fonts.googleapis.com/css?family=Barlow+Semi+Condensed:300,400,500');
+
+body {
+	background: url("../img/back.jpg");
+	background-size: cover;
+	font-family: 'Barlow Semi Condensed', sans-serif;
 }
+
+.top {
+
+    background: #262626;
+
+}
+
+.top a{color:#fff;}
+
+.top-nav {
+	float: right;
+	background: #515151;
+	
+}
+
+.top a {
+	color: #fff;
+	padding: 7px 16px;
+	display: inline-block;
+}
+
+.lang {
+	margin-left: 40px !important;
+}
+.cart {
+	background: #106693;
+	position:relative;
+	
+}
+
+.cart::after{
+	border-top: 25px solid transparent;
+	border-left: 50px solid #106693;
+	border-bottom: 25px solid transparent;
+}
+.navbar-inverse {
+	border-radius: 0;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1d1d1d+1,2d2d2d+100 */
+background: #1d1d1d; /* Old browsers */
+background: -moz-linear-gradient(top, #1d1d1d 1%, #2d2d2d 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, #1d1d1d 1%,#2d2d2d 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, #1d1d1d 1%,#2d2d2d 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1d1d1d', endColorstr='#2d2d2d',GradientType=0 ); /* IE6-9 */
+border: none;
+}
+
+.navbar-brand {
+	padding: 0 15px;
+}
+
+.navbar-brand > img {
+	display: block;
+	position: relative;
+	top: -14px;
+	max-width: 180px;
+	z-index: 9;
+}
+
+.navbar-nav > li > a {
+	padding-top: 18px;
+	padding-bottom: 18px;
+	font-family: 'Barlow Semi Condensed', sans-serif;
+	font-size: 18px;
+	color: #fff !important;
+	font-weight: 500;
+}
+.nav.navbar-nav.navbar-right {
+	margin-top: 14px;
+	margin-bottom: 14px;
+	margin-right: -15px;
+}
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:focus, .navbar-inverse .navbar-nav > .active > a:hover {
+	color: #fff;
+	background-color: #1377ac;
+}
+
+.navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:focus, .navbar-inverse .navbar-nav > .open > a:hover {
+	color: #fff;
+	background-color: #1377ac;
+}
+
+.navbar-inverse .navbar-nav > li > a:focus, .navbar-inverse .navbar-nav > li > a:hover {
+	color: #fff;
+	background-color: #1377ac;
+}
+.navbar-right .dropdown-menu {
+	right: 0;
+	left: auto;
+	background: #1377ac;
+}
+.navbar-right .dropdown-menu a{
+	color: #fff;
+	font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+
+.navbar-right .dropdown-menu > li > a:focus, .dropdown-menu > li > a:hover {
+	color: #fff;
+	text-decoration: none;
+	background-color: #093b56;
+}
+
+
+
+
+.owl-carousel {
+	display: none;
+	width: 100%;
+	z-index: 1;
+}
+.owl-carousel, .owl-carousel .owl-item {
+	-webkit-tap-highlight-color: transparent;
+	position: relative;
+	display: block;
+}
+.owl-carousel .owl-stage-outer {
+	position: relative;
+	overflow: hidden;
+	-webkit-transform: translate3d(0,0,0);
+}
+.owl-carousel .owl-stage {
+	position: relative;
+	-ms-touch-action: pan-Y;
+}
+.owl-carousel .owl-item {
+	min-height: 1px;
+	float: left;
+	-webkit-backface-visibility: hidden;
+	-webkit-touch-callout: none;
+}
+.owl-carousel, .owl-carousel .owl-item {
+	-webkit-tap-highlight-color: transparent;
+	position: relative;
+}
+.owl-carousel .owl-item img {
+	display: block;
+	width: 100%;
+	-webkit-transform-style: preserve-3d;
+}
+	
+	
+.owl-next {
+  background-image: url("https://www.freeiconspng.com/uploads/white-arrow-transparent-png-22.png");
+  background-size: 100% 100%;
+  color: transparent;
+  height: 50px;
+  right: 0;
+  position: absolute;
+  top: 40%;
+  width: 50px;
+  cursor:pointer;
+}
+
+.owl-prev {
+  background-image: url("https://www.freeiconspng.com/uploads/white-arrow-transparent-png-22.png");
+  background-size: 100% 100%;
+  color: transparent;
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 40%;
+  width: 50px;
+  transform: rotate(180deg);
+  cursor:pointer;
+}
+
+.owl-theme .owl-dots {
+    text-align: center;
+    -webkit-tap-highlight-color: transparent;
+}
+.owl-theme .owl-dots .owl-dot {
+	display: inline-block;
+	zoom: 1;
+}
+.owl-theme .owl-dots .owl-dot span {
+	width: 10px;
+	height: 10px;
+	margin: 5px 7px;
+	background: #D6D6D6;
+	display: block;
+	-webkit-backface-visibility: visible;
+	transition: opacity .2s ease;
+	border-radius: 30px;
+}
+.owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
+	background: #869791;
+}
+.owl-theme .owl-dots {
+  display: none;
+  text-align: center;
+}
+
+.pls {
+	width: 20%;
+	float: left;
+	padding: 0 15px;
+	margin-bottom: 10px;
+}
+
+.grnbck {
+	background: #13394d;
+	color: #fff;
+	padding: 20px;
+	margin: 20px 0;
+}
+.hding {
+	font-size: 20px;
+	margin-bottom: 20px;
+	font-family: 'Barlow Semi Condensed', sans-serif;
+	font-weight:300;
+}
+
+.bold{font-weight:500;}
+
+
+.mb10{margin-bottom:10px;}
+
+
+
