@@ -358,5 +358,5 @@ border: none;
     padding: 0px !important;
 }
 footer {
-    text-transform: uppercase;
+    text-transform: uppercase !important;
 }
