@@ -360,3 +360,19 @@ border: none;
 .footer {
     text-transform: uppercase !important;
 }
+.copyright {
+    position: fixed;
+    bottom: 0;
+    z-index: 99999;
+    width: 300px;
+}
+.copyright img {
+    max-height: 44px;
+}
+.copyright > a {
+    float: left;
+}
+.copyright small {
+    position: relative;
+    top: -10px;
+}
