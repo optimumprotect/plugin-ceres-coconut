@@ -415,3 +415,6 @@ border: none;
 .cmp-product-thumb .price{
 	color:#fff !important;
 }
+span.vat.small.text-muted {
+    color: #fff !important;
+}
