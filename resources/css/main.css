@@ -299,3 +299,18 @@ border: none;
 .widget-image-carousel.widget-primary .carousel-control .fa {
     color: #fff;
 }
+
+.mainmenu li ul.collapse li a {
+    padding: 5px 15px !important;
+    text-transform: capitalize;
+}
+.card, .cmp-address-list .items>div:first-child {
+    background-color: #13394d;
+}
+.widget.accordion.widget-primary h5 {
+    color: #fff;
+    font-weight: 500 !important;
+}
+.card-body, .card-block {
+    color: #fff;
+}
