@@ -5,7 +5,9 @@ body {
 	background-size: cover;
 	font-family: 'Barlow Semi Condensed', sans-serif;
 }
-
+body>#vue-app, body>#vue-error {
+    background-color: transparent !important;
+}
 .top {
 
     background: #262626;
