@@ -252,7 +252,7 @@ border: none;
     display: none;
 }
 #page-body {
-   margin-top: 10px;
+   margin-top: 20px;
 }
 
 .widget-item-list {
@@ -295,4 +295,7 @@ border: none;
 }
 .wrapper-main header .controls-list {
     background: #515151;
+}
+.widget-image-carousel.widget-primary .carousel-control .fa {
+    color: #fff;
 }
