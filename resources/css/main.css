@@ -405,3 +405,7 @@ border: none;
     top: 21px;
     left: 19px;
 }
+.product-list .thumb-content {
+    background: #13394d !important;
+    padding: 3rem !important;
+}
