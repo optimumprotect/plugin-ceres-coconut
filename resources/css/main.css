@@ -246,3 +246,9 @@ border: none;
 .wrapper-main .navbar a {
     text-transform: uppercase;
 }
+.widget-title-bar {
+    display: none;
+}
+#page-body {
+    margin-top: 30px;
+}
