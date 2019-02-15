@@ -357,3 +357,6 @@ border: none;
 .footer .widget-text .widget-inner {
     padding: 0px !important;
 }
+footer {
+    text-transform: uppercase;
+}
