@@ -354,3 +354,6 @@ border: none;
 .pluginset-preview-overlay .message {
     color: #fff;
 }
+.footer .widget-text .widget-inner {
+    padding: 0px !important;
+}
