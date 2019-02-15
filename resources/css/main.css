@@ -368,11 +368,14 @@ border: none;
     transform: translateX(-58%);*/
     z-index: 99999;
    /* width: 300px;*/
-	width:100%;
+    width:100%;
+    background: #0f134e;
 }
 .copyright img {
     max-height: 44px;
-	background: #0f134e;
+    position: relative;
+    left: 520px;
+
 }
 .copyright > a {
     float: left;
@@ -380,7 +383,7 @@ border: none;
 .copyright small {
     position: relative;
     top: -10px;
-    background: #0f134e;
+	left:-19px;
 }
 .pluginset-preview-overlay{
 	min-height:83px;
