@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Barlow+Semi+Condensed:300,400,500');
 
 body {
-	background: url("../image/back.jpg");
+	background: url("https://github.com/optimumprotect/plugin-ceres-coconut/blob/test_branch/resources/image/back.jpg?raw=true");
 	background-size: cover;
 	font-family: 'Barlow Semi Condensed', sans-serif;
 }
