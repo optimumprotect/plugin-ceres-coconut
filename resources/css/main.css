@@ -388,16 +388,14 @@ border: none;
 .pluginset-preview-overlay{
 	min-height:83px;
 }
-/*
+
 .categoriegrid .list-controls .list-controls-inner{
 	background: #13394d;
-	position:relative;
-	top: 19px;
-        left: 19px;
+	
 }
 .categoriegrid select.custom-select{
         padding: .2rem 2rem .2rem 1rem;	
 }
 .categoriegrid.page-content.container-max {
     background: grey;
-}*/
+}
