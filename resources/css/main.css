@@ -391,11 +391,17 @@ border: none;
 
 .categoriegrid .list-controls .list-controls-inner{
 	background: #13394d;
-	
+	padding: 2.5em;
 }
 .categoriegrid select.custom-select{
         padding: .2rem 2rem .2rem 1rem;	
 }
 .categoriegrid.page-content.container-max {
     background: grey;
+}
+.categoriegrid .list-wrapper {
+    float: right;
+    position: relative;
+    top: 21px;
+    left: 19px;
 }
