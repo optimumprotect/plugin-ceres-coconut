@@ -370,6 +370,7 @@ border: none;
 }
 .copyright img {
     max-height: 44px;
+	background: #0f134e;
 }
 .copyright > a {
     float: left;
@@ -377,6 +378,7 @@ border: none;
 .copyright small {
     position: relative;
     top: -10px;
+    background: #0f134e;
 }
 .pluginset-preview-overlay{
 	min-height:70px;
