@@ -363,6 +363,8 @@ border: none;
 .copyright {
     position: fixed;
     bottom: 0;
+    left: 50%;
+    transform: translateX(-58%);
     z-index: 99999;
     width: 300px;
 }
@@ -375,4 +377,7 @@ border: none;
 .copyright small {
     position: relative;
     top: -10px;
+}
+.pluginset-preview-overlay{
+	min-height:70px;
 }
