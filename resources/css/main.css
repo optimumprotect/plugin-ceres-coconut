@@ -352,7 +352,7 @@ border: none;
     text-transform: uppercase;
 }
 .pluginset-preview-overlay .message {
-    color: #fff;
+    color: #fff !important;
 }
 .footer .widget-text .widget-inner {
     padding: 0px !important;
