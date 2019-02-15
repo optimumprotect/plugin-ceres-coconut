@@ -314,3 +314,43 @@ border: none;
 .card-body, .card-block {
     color: #fff;
 }
+.footer .widget.widget-text.widget-none {
+    background: #2d2d2d !important;
+}
+.footer {
+    background-color: #2d2d2d;
+}
+.footer.container-max {
+    max-width: 1170px !important;
+    padding: 30px;
+}
+.footer .widget-grid .widget-inner .widget-list .widget-inner {
+
+    background: #2d2d2d;
+}
+.footer .widget-inner.col-12.col-md-4.widget-prop-3-2 {
+    background: #2d2d2d;
+}
+.footer .widget-grid .widget-inner .widget-list {
+    color: #fff;
+    background-color: #2d2d2d;
+
+}
+.footer .widget-inner a {
+    color: #fff;
+}
+.footer .widget-inner {
+    color: #fff;
+}
+.footer p.h4 {
+    color: #008ebd;
+}
+.widget-legal-information a {
+    color: #fff;
+}
+.footer a {
+    text-transform: uppercase;
+}
+.pluginset-preview-overlay .message {
+    color: #fff;
+}
