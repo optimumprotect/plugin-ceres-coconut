@@ -409,3 +409,9 @@ border: none;
     background: #13394d !important;
     padding: 3rem !important;
 }
+.thumb-content a {
+    color: #fff !important;
+}
+.cmp-product-thumb .price{
+	color:#fff !important;
+}
