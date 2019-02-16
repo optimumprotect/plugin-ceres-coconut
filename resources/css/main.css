@@ -450,6 +450,22 @@ span.vat.small.text-muted {
 ul.breadcrumb li {
     color: #fff !important;
 }
+li.breadcrumb-item {
+    background: #ef0927;
+    padding: 6px;
+    -webkit-transform: skewX(-10deg);
+    -moz-transform: skewX(-10deg);
+    -ms-transform: skewX(-10deg);
+    transform: skewX(-20deg);
+}
+li.breadcrumb-item.active {
+    background: #008ebd;
+    padding: 6px;
+    -webkit-transform: skewX(-10deg);
+    -moz-transform: skewX(-10deg);
+    -ms-transform: skewX(-10deg);
+    transform: skewX(-20deg);
+}
 nav.container-max.small.hidden-sm-down {
     margin-top: 56px;
     background: transparent;
@@ -459,7 +475,7 @@ nav.container-max.small.hidden-sm-down ul.breadcrumb{
     background: #13394d;
     padding: 15px;
     padding-left:71px;
-	font-size:13px;
+	font-size:15px;
 }
 .categoriegrid.page-content.container-max{
    margin-top: -99px;
