@@ -392,6 +392,9 @@ border: none;
 .categoriegrid .list-controls .list-controls-inner{
 	background: #13394d;
 	padding: 2.5em;
+	margin-left: -15px;
+        margin-right: -15px;
+        margin-top: -15px;
 }
 .categoriegrid select.custom-select{
         padding: .2rem 2rem .2rem 1rem;	
@@ -405,6 +408,7 @@ border: none;
     top: 21px;
     left: 19px;
 }
+
 .product-list .thumb-content {
     background: #13394d !important;
     padding: 3rem !important;
@@ -417,4 +421,20 @@ border: none;
 }
 span.vat.small.text-muted {
     color: #fff !important;
+}
+
+.product-list a.thumb-title.small {
+    font-size: 15px;
+}
+.product-list .cmp-product-thumb .thumb-background {
+    background: #13394d !important;
+}
+.product-list .cmp-product-thumb del.crossprice {
+    color: #fff;
+    letter-spacing: 1px;
+}
+span.vat.small.text-muted {
+    position: relative;
+    color: #fff !important;
+    bottom: -25px;
 }
