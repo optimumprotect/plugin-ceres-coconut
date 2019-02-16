@@ -438,3 +438,12 @@ span.vat.small.text-muted {
     color: #fff !important;
     bottom: -25px;
 }
+.parallax-img-container .parallax-text-container {
+    position: relative;
+    top: 97px;
+    z-index: 999;
+}
+.parallax-img-container .parallax-text-container h1.h2.pt-4.category-title {
+    margin-left: 57px;
+    color: #fff;
+}
