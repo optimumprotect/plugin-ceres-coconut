@@ -452,7 +452,7 @@ ul.breadcrumb li {
 }
 li.breadcrumb-item {
     background: #ab0d29;
-    padding: 10px;
+    padding: 6px;
     -webkit-transform: skewX(-10deg);
     -moz-transform: skewX(-20deg);
     -ms-transform: skewX(-20deg);
