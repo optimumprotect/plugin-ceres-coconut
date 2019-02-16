@@ -454,9 +454,17 @@ li.breadcrumb-item {
     background: #ab0d29;
     padding: 10px;
     -webkit-transform: skewX(-10deg);
-    -moz-transform: skewX(-10deg);
-    -ms-transform: skewX(-10deg);
+    -moz-transform: skewX(-20deg);
+    -ms-transform: skewX(-20deg);
     transform: skewX(-20deg);
+}
+li.breadcrumb-item a {
+    display: block;
+    transform: skew(30deg);
+}
+li.breadcrumb-item.active > span {
+    transform: skew(30deg) !important;
+    display: inline-block;
 }
 li.breadcrumb-item.active {
     background: #008ebd;
