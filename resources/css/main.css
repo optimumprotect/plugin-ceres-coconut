@@ -360,15 +360,15 @@ border: none;
 .footer {
     text-transform: uppercase !important;
 }
-.copyright {
+/*.copyright {
     position: fixed;
     bottom: 0;
     left:0;
     /*left: 50%;
     transform: translateX(-58%);*/
-    z-index: 99999;
-   /* width: 300px;*/
-    width:100%;
+   /* z-index: 99999;
+    width: 300px;*/
+   /* width:100%;
     background: #0f134e;
 }
 .copyright img {
@@ -384,9 +384,9 @@ border: none;
     position: relative;
     top: -10px;
 	left:-19px;
-}
+}*/
 .pluginset-preview-overlay{
-	min-height:83px;
+	/*min-height:83px;*/
 }
 
 .categoriegrid .list-controls .list-controls-inner{
