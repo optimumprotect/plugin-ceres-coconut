@@ -455,6 +455,9 @@ nav.container-max.small.hidden-sm-down {
 }
 
 nav.container-max.small.hidden-sm-down ul.breadcrumb{
-ackground: #13394d;
+    background: #13394d;
     padding: 15px;
+}
+.categoriegrid.page-content.container-max{
+   margin-top: -99px;
 }
