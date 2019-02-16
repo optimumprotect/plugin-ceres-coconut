@@ -452,7 +452,7 @@ ul.breadcrumb li {
 }
 li.breadcrumb-item {
     background: #ef0927;
-    padding: 6px;
+    padding: 10px;
     -webkit-transform: skewX(-10deg);
     -moz-transform: skewX(-10deg);
     -ms-transform: skewX(-10deg);
@@ -460,11 +460,11 @@ li.breadcrumb-item {
 }
 li.breadcrumb-item.active {
     background: #008ebd;
-    padding: 6px;
+    /*padding: 6px;
     -webkit-transform: skewX(-10deg);
     -moz-transform: skewX(-10deg);
     -ms-transform: skewX(-10deg);
-    transform: skewX(-20deg);
+    transform: skewX(-20deg);*/
 }
 nav.container-max.small.hidden-sm-down {
     margin-top: 56px;
