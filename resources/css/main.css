@@ -457,6 +457,8 @@ nav.container-max.small.hidden-sm-down {
 nav.container-max.small.hidden-sm-down ul.breadcrumb{
     background: #13394d;
     padding: 15px;
+    padding-left:71px;
+	font-size:13px;
 }
 .categoriegrid.page-content.container-max{
    margin-top: -99px;
