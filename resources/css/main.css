@@ -556,7 +556,9 @@ li.breadcrumb-item {
 img.img-fluid {
     top: 7px;
 }
+
 .navbar-brand img {
-    top: 7px;
+    max-height: initial;
+    top: 16px;
 }
 }
