@@ -247,7 +247,7 @@ border: none;
 
 .navbar-brand img {
     max-height: initial;
-    top: 28px;
+    top: 59px;
 }
 .wrapper-main .navbar a {
     text-transform: uppercase;
@@ -544,7 +544,7 @@ select.custom-select {
     margin-top: -26px;
 }
 nav.container-max.small.hidden-sm-down ul.breadcrumb {
-    padding-left: 10%;
+    padding-left: 12%;
 }
 li.breadcrumb-item {
     transform: skewX(-36deg);
