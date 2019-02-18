@@ -324,9 +324,14 @@ border: none;
 .footer {
     background-color: #2d2d2d;
 }
-.footer.container-max {
+/*.footer.container-max {
     max-width: 1170px !important;
     padding: 30px;
+}*/
+.footer.container-max {
+    /* max-width: 1170px !important; */
+    padding: 30px;
+    margin-top: 20px;
 }
 .footer .widget-grid .widget-inner .widget-list .widget-inner {
 
@@ -440,7 +445,7 @@ span.vat.small.text-muted {
 span.vat.small.text-muted {
     position: relative;
     color: #fff !important;
-    bottom: -25px;
+    /*bottom: -25px;*/
 }
 .parallax-img-container .parallax-text-container {
     position: relative;
