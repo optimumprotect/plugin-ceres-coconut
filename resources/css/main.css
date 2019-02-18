@@ -530,5 +530,7 @@ nav.container-max.small.hidden-sm-down ul li {
 	width: 7%;
 }
 .breadcrumb-item li a{
-	margin-top-28%;
+	margin-top: -24%;
+    margin-left: 14px;
 }
+
