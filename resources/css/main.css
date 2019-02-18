@@ -503,3 +503,7 @@ li.breadcrumb-item {
 .page-content {
     background-color: #dbdbec;
 }
+// right side background
+.col-md-5.single-rightside {
+    background-color: #4f6f82;
+}
