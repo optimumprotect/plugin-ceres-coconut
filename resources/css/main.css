@@ -538,5 +538,5 @@ select.custom-select {
     background: #008ebd;
 }
 .custom-select{
-	color:fff;
+	color:white !important;
 }
