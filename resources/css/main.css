@@ -520,3 +520,6 @@ li.breadcrumb-item {
 h1, .h1 {
     font-size: 3rem;
 }
+nav.container-max.small.hidden-sm-down ul li {
+    height: 33px;
+}
