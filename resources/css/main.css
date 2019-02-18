@@ -36,6 +36,10 @@ body>#vue-app, body>#vue-error {
 	position:relative;
 	
 }
+// right side backround for col-md-5
+.col-md-5.single-rightside {
+    background-color: #4f6f82;
+}
 
 .cart::after{
 	border-top: 25px solid transparent;
