@@ -534,3 +534,6 @@ nav.container-max.small.hidden-sm-down ul li {
     background: #008ebd !important;
     cursor: pointer;
 }
+select.custom-select {
+    background: #008ebd;
+}
