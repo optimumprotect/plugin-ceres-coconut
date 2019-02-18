@@ -546,7 +546,7 @@ nav.container-max.small.hidden-sm-down ul.breadcrumb {
     padding-left: 12%;
 }
 li.breadcrumb-item {
-    transform: skewX(-36deg);
+    transform: skewX(-40deg);
 }
 .breadcrumb-item+.breadcrumb-item::before {
     content: none;
