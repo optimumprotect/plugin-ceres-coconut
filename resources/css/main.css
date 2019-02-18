@@ -558,7 +558,9 @@ img.img-fluid {
 }
 .navbar-brand img {
     max-height: initial;
-    top: 16px;
+    top: 5px;
 }
+.cmp-product-thumb .thumb-title {
+    font-weight: 500;
 }
 
