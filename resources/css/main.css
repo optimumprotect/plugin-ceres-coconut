@@ -505,5 +505,5 @@ li.breadcrumb-item {
 }
 // right side background
 .col-md-5.single-rightside {
-    background-color: #4f6f82;
+    background-color: #4f6f82 !important;
 }
