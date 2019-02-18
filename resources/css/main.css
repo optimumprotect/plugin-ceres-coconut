@@ -514,3 +514,6 @@ li.breadcrumb-item {
 .badge, .tag {
     font-size: 100%;
 }
+.availability.badge.availability_1 span{
+    font-size: 92%;
+}
