@@ -530,3 +530,7 @@ nav.container-max.small.hidden-sm-down ul li {
 }
 
 
+.product-list .thumb-content:hover {
+    background: #008ebd !important;
+    cursor: pointer;
+}
