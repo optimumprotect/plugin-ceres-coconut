@@ -546,6 +546,9 @@ select.custom-select {
 nav.container-max.small.hidden-sm-down ul.breadcrumb {
     padding-left: 10%;
 }
+li.breadcrumb-item {
+    transform: skewX(-36deg);
+}
 
 @media(max-width:200px){
 img.img-fluid {
