@@ -523,3 +523,6 @@ h1, .h1 {
 nav.container-max.small.hidden-sm-down ul li {
     height: 33px;
 }
+.breadcrumb-item{
+	width: 10%;
+}
