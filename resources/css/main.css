@@ -566,5 +566,9 @@ img.img-fluid {
 ul.product-list.row.grid {
     margin-top: -29%;
 }
+.thumb-image {
+    margin-top: 50px;
+    margin-left: 4px;
+}
 }
 
