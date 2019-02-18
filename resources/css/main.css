@@ -552,11 +552,10 @@ li.breadcrumb-item {
     content: none;
 }
 
-@media only screen and(max-width:768px){
+@media screen and(max-width:768px){
 img.img-fluid {
     top: 7px;
 }
-
 .navbar-brand img {
     max-height: initial;
     top: 16px;
