@@ -552,12 +552,13 @@ li.breadcrumb-item {
     content: none;
 }
 
-@media (max-width: 991.98px)
+@media (max-width: 991.98px){
 img.img-fluid {
     top: 7px;
 }
 .navbar-brand img {
     max-height: initial;
     top: 16px;
+}
 }
 
