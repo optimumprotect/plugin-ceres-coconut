@@ -526,3 +526,6 @@ nav.container-max.small.hidden-sm-down ul li {
 .breadcrumb-item{
 	width: 10%;
 }
+.breadcrumb-item a{
+	margin-top-28%;
+}
