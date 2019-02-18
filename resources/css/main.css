@@ -563,4 +563,8 @@ img.img-fluid {
 .cmp-product-thumb .thumb-title {
     font-weight: 500;
 }
+ul.product-list.row.grid {
+    margin-top: -29%;
+}
+}
 
