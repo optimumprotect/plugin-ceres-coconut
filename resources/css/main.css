@@ -540,6 +540,9 @@ select.custom-select {
 .custom-select{
 	color:white !important;
 }
+.wrapper.wrapper-main {
+    margin-top: -26px;
+}
 
 @media(max-width:200px){
 img.img-fluid {
