@@ -537,3 +537,6 @@ nav.container-max.small.hidden-sm-down ul li {
 select.custom-select {
     background: #008ebd;
 }
+.custom-select{
+	color:fff;
+}
