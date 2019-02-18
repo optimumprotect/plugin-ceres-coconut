@@ -517,3 +517,6 @@ li.breadcrumb-item {
 .availability.badge.availability_1 span{
     font-size: 92%;
 }
+.price h1 span{
+    font-size: 3rem;
+}
