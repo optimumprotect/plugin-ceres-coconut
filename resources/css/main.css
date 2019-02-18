@@ -523,7 +523,7 @@ h1, .h1 {
 nav.container-max.small.hidden-sm-down ul li {
     height: 33px;
 }
-.breadcrumb-item{
+.breadcrumb-item ul li:nth-child(2){
 	width: 10%;
 }
 .breadcrumb-item a{
