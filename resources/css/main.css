@@ -540,3 +540,9 @@ select.custom-select {
 .custom-select{
 	color:white !important;
 }
+
+@media(max-width:200px){
+img.img-fluid {
+    top: 7px;
+}
+}
