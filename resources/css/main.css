@@ -524,17 +524,17 @@ nav.container-max.small.hidden-sm-down ul li {
     height: 33px;
 }
 .breadcrumb-item ul li:nth-child(2){
-	width: 10%;
+	width: 12%;
 }
 .breadcrumb-item ul li:nth-child(3){
-	width: 7%;
+	width: 9%;
 }
 li:nth-child(2).breadcrumb-item a {
     margin-top: -63%;
     margin-left: 29%;
 }
 li:nth-child(3).breadcrumb-item a {
-    margin-top: -63%;
-    margin-left: 29%;
+    margin-top: -28%;
+    margin-left: 13%;
 }
 
