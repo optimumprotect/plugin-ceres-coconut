@@ -543,10 +543,11 @@ select.custom-select {
     margin-top: -26px;
 }
 nav.container-max.small.hidden-sm-down ul.breadcrumb {
-    padding-left: 12%;
+    padding-left: 11%;
 }
 li.breadcrumb-item {
     transform: skewX(-40deg);
+    margin-top: 26px;
 }
 .breadcrumb-item+.breadcrumb-item::before {
     content: none;
@@ -573,5 +574,6 @@ ul.product-list.row.grid {
 .parallax-img-container .parallax-text-container h1.h2.pt-4.category-title {
     margin-left: 21px;
 }
+
 }
 
