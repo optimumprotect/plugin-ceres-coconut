@@ -489,3 +489,10 @@ nav.container-max.small.hidden-sm-down ul.breadcrumb{
    margin-top: -99px;
 	margin-bottom:23px;
 }
+
+li.breadcrumb-item a {
+    color: #fff;
+}
+li.breadcrumb-item {
+    background: #545454;
+}
