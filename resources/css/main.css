@@ -549,7 +549,9 @@ nav.container-max.small.hidden-sm-down ul.breadcrumb {
 li.breadcrumb-item {
     transform: skewX(-36deg);
 }
-
+.breadcrumb-item+.breadcrumb-item::before {
+    content: none;
+}
 @media(max-width:200px){
 img.img-fluid {
     top: 7px;
