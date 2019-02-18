@@ -570,5 +570,8 @@ ul.product-list.row.grid {
     margin-top: 50px;
     margin-left: 4px;
 }
+.parallax-img-container .parallax-text-container h1.h2.pt-4.category-title {
+    margin-left: 21px;
+}
 }
 
