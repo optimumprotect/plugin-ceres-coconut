@@ -502,6 +502,7 @@ li.breadcrumb-item {
 }
 .page-content {
     background-color: #dbdbec;
+    margin-top: -20px;
 }
 
 .single-rightside {
