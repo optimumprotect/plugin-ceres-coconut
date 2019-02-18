@@ -496,3 +496,6 @@ li.breadcrumb-item a {
 li.breadcrumb-item {
     background: #545454;
 }
+.page-content {
+    background-color: #dbdbec;
+}
