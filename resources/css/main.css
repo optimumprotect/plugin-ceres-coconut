@@ -244,7 +244,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1d1d1d', end
 border: none;
 
 }
-
+.navbar-brand img {
+    max-height: initial;
+    top: 59px;
 
 .wrapper-main .navbar a {
     text-transform: uppercase;
@@ -549,11 +551,7 @@ li.breadcrumb-item {
 .breadcrumb-item+.breadcrumb-item::before {
     content: none;
 }
-@media only screen and(min-width:768px){
-.navbar-brand img {
-    max-height: initial;
-    top: 59px;
-	}}
+
 @media only screen and(max-width:768px){
 img.img-fluid {
     top: 7px;
