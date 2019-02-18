@@ -504,6 +504,6 @@ li.breadcrumb-item {
     background-color: #dbdbec;
 }
 
-.col-md-5.single-rightside {
-    background-color: #4f6f82 !important;
+.single-rightside {
+    background-color: #4f6f82 ;
 }
