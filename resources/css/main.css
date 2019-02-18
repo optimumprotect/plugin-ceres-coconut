@@ -543,6 +543,9 @@ select.custom-select {
 .wrapper.wrapper-main {
     margin-top: -26px;
 }
+nav.container-max.small.hidden-sm-down ul.breadcrumb {
+    padding-left: 10%;
+}
 
 @media(max-width:200px){
 img.img-fluid {
