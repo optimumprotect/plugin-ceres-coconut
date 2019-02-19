@@ -621,7 +621,7 @@ ul.product-list.row.grid {
     padding-left: 15vw;
 }
 }
-@media (min-width: 992.98px) and (max-width:1023px){
+@media (min-width: 1024px) and (max-width:2023px){
 	nav.container-max.small.hidden-sm-down ul.breadcrumb {
     padding-left: 20vw;
 }
