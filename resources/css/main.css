@@ -466,10 +466,6 @@ li.breadcrumb-item {
     -ms-transform: skewX(-20deg);
     transform: skewX(-20deg);
 }
-li.breadcrumb-item a {
-   /* display: block; */
-    transform: skew(30deg);
-}
 li.breadcrumb-item.active > span {
     transform: skew(33deg);
     display: inline-block;
@@ -500,6 +496,9 @@ nav.container-max.small.hidden-sm-down ul.breadcrumb{
 
 li.breadcrumb-item a {
     color: #fff;
+    display: block; 
+    transform: skew(40deg);
+	
 }
 li.breadcrumb-item {
     background: #545454;
