@@ -572,6 +572,9 @@ a.add-to-wish-list {
 span.vat.small.text-muted {
     color: #000 !important;
 }
+.product-list span.vat.small.text-muted {
+    color: #fff !important;
+}
 div.base-price.text-muted.my-3 div, div.base-price.text-muted.my-3 span {
     color: #000 !important;
 }
