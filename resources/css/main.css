@@ -496,8 +496,8 @@ nav.container-max.small.hidden-sm-down ul.breadcrumb{
 
 li.breadcrumb-item a {
     color: #fff;
-    display: block; 
-    transform: skew(40deg);
+   /* display: block; 
+    transform: skew(40deg);*/
 	
 }
 li.breadcrumb-item {
