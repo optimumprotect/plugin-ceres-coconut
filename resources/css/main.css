@@ -554,6 +554,11 @@ li.breadcrumb-item {
     content: none;
 }
 
+span.articlenumber.small.text-muted b, span.articlenumber.small.text-muted span {
+    color: #000;
+    letter-spacing: .5px;
+}
+
 @media (max-width: 991.98px){
 img.img-fluid {
     top: 7px;
