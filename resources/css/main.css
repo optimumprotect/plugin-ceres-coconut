@@ -546,6 +546,8 @@ nav.container-max.small.hidden-sm-down ul.breadcrumb {
 }
 li.breadcrumb-item {
     transform: skewX(-40deg);
+	position:relative;
+	top:-36px;
     margin-top: 26px;
 }
 .breadcrumb-item+.breadcrumb-item::before {
