@@ -587,11 +587,15 @@ div.producertag.h6.producer.text-muted {
 }
 
 @media (max-width: 991.98px){
+	button#btnMainMenuToggler {
+    color: #fff;
+    font-size: 24px;
+}
 img.img-fluid {
     top: 7px;
 }
 .navbar-brand img {
-    max-height: initial;
+    max-height: 70px;
     top: 5px;
 }
 .cmp-product-thumb .thumb-title {
