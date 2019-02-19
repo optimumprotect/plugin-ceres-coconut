@@ -587,6 +587,9 @@ div.producertag.h6.producer.text-muted {
 }
 
 @media (max-width: 991.98px){
+	#page-body {
+    margin-top: 40px;
+}
 	button#btnMainMenuToggler {
     color: #fff;
     font-size: 24px;
