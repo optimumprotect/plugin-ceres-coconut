@@ -542,7 +542,7 @@ select.custom-select {
     margin-top: -26px;
 }
 nav.container-max.small.hidden-sm-down ul.breadcrumb {
-    padding-left: 11%;
+    padding-left: 10%;
 }
 li.breadcrumb-item {
     transform: skewX(-40deg);
@@ -576,6 +576,7 @@ div.base-price.text-muted.my-3 div, div.base-price.text-muted.my-3 span {
 div.producertag.h6.producer.text-muted {
     color: #000 !important;
 }
+
 
 @media (max-width: 991.98px){
 img.img-fluid {
