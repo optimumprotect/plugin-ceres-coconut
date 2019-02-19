@@ -558,6 +558,21 @@ span.articlenumber.small.text-muted b, span.articlenumber.small.text-muted span 
     color: #000;
     letter-spacing: .5px;
 }
+div.crossprice del.text-muted.small {
+    color: #ea0707 !important;
+}
+.add-to-wish-list i.fa.fa-heart {
+    color: #9a0606 !important;
+}
+a.add-to-wish-list {
+    color: #000 !important;
+}
+span.vat.small.text-muted {
+    color: #000 !important;
+}
+div.base-price.text-muted.my-3 div, div.base-price.text-muted.my-3 span {
+    color: #000 !important;
+}
 
 @media (max-width: 991.98px){
 img.img-fluid {
