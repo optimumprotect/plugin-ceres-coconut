@@ -405,7 +405,7 @@ border: none;
         margin-top: -15px;
 }
 .categoriegrid select.custom-select{
-        padding: .2rem 2rem .2rem 1rem;	
+        padding: .2rem 2rem .2rem 0rem;	
 }
 .categoriegrid.page-content.container-max {
     background: grey;
@@ -545,7 +545,7 @@ select.custom-select {
     margin-top: -26px;
 }
 nav.container-max.small.hidden-sm-down ul.breadcrumb {
-    padding-left: 10%;
+    padding-left: 10vw;
 }
 li.breadcrumb-item {
     transform: skewX(-40deg);
