@@ -633,6 +633,6 @@ ul.product-list.row.grid {
 }
 @media (min-width: 1200px) and (max-width:1299px){
 	nav.container-max.small.hidden-sm-down ul.breadcrumb {
-    padding-left: 13vw; 
+    padding-left: 12vw; 
 }
 }
