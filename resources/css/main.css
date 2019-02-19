@@ -405,7 +405,7 @@ border: none;
         margin-top: -15px;
 }
 .categoriegrid select.custom-select{
-        padding: .2rem 2rem .2rem 0rem;	
+        padding: .5rem 2rem .5rem 2rem;	
 }
 .categoriegrid.page-content.container-max {
     background: grey;
