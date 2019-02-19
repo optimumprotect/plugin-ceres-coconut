@@ -573,6 +573,9 @@ span.vat.small.text-muted {
 div.base-price.text-muted.my-3 div, div.base-price.text-muted.my-3 span {
     color: #000 !important;
 }
+div.producertag.h6.producer.text-muted {
+    color: #000 !important;
+}
 
 @media (max-width: 991.98px){
 img.img-fluid {
