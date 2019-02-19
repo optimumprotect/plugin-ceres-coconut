@@ -628,6 +628,11 @@ ul.product-list.row.grid {
 }
 @media (min-width: 1100px) and (max-width:1199px){
 	nav.container-max.small.hidden-sm-down ul.breadcrumb {
-    padding-left: 17vw; 
+    padding-left: 14vw; 
+}
+}
+@media (min-width: 1200px) and (max-width:1129px){
+	nav.container-max.small.hidden-sm-down ul.breadcrumb {
+    padding-left: 13vw; 
 }
 }
