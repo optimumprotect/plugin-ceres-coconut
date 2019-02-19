@@ -467,7 +467,7 @@ li.breadcrumb-item {
     transform: skewX(-20deg);
 }
 li.breadcrumb-item.active > span {
-    transform: skew(33deg);
+    transform: skew(40deg);
     display: inline-block;
 }
 li.breadcrumb-item.active {
