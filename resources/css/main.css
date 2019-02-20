@@ -597,7 +597,7 @@ div.producertag.h6.producer.text-muted {
 
 h1.h2.title {
     position: relative;
-    top: -9vw;
+    top: -11vw;
     color: #fff;
     left: -44vw;
 }
@@ -634,14 +634,16 @@ ul.product-list.row.grid {
 .parallax-img-container .parallax-text-container h1.h2.pt-4.category-title {
     margin-left: 21px;
 }
-
+	h1.h2.title{
+		top:-18vw;	
+	}
 }
 @media (min-width: 992.98px) and (max-width:1023px){
 	nav.container-max.small.hidden-sm-down ul.breadcrumb {
     padding-left: 15vw;
 }
 	h1.h2.title{
-		top:-10vw;	
+		top:-15vw;	
 	}
 }
 @media (min-width: 1024px) and (max-width:1099px){
@@ -649,7 +651,7 @@ ul.product-list.row.grid {
     padding-left: 14.4vw;
 }
 	h1.h2.title{
-		top:-12vw;	
+		top:-14vw;	
 	}
 }
 @media (min-width: 1100px) and (max-width:1199px){
@@ -657,7 +659,7 @@ ul.product-list.row.grid {
     padding-left: 13vw; 
 }
 	h1.h2.title{
-		top:-10vw;	
+		top:-13vw;	
 	}
 }
 @media (min-width: 1200px) and (max-width:1299px){
