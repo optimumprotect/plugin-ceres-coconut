@@ -585,7 +585,10 @@ div.producertag.h6.producer.text-muted {
 .widget-item-list .thumb-content a, .widget-item-list .thumb-content div {
     color: #000 !important;
 }
-
+.mobile-navigation ul.breadcrumb li.breadcrumb-item i {
+    display: inline-block;
+    transform: skew(40deg);
+}
 @media (max-width: 991.98px){
 	#page-body {
     margin-top: 40px;
