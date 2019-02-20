@@ -589,6 +589,10 @@ div.producertag.h6.producer.text-muted {
     display: inline-block;
     transform: skew(40deg);
 }
+.mobile-navigation ul.breadcrumb li.breadcrumb-item {
+    margin-top: 40px;
+    padding: .1rem 1rem .1rem 1rem;
+}
 @media (max-width: 991.98px){
 	#page-body {
     margin-top: 40px;
