@@ -603,9 +603,14 @@ h1.h2.title {
 }
 
 .legal-disclosure{
+	margin-top:50px;
 	background:#13394d;
 }
-
+.col-12.legal-disclosure > h1 {
+    position: relative;
+    color: #fff;
+    top: 2vw;
+}
 
 
 @media (max-width: 991.98px){
