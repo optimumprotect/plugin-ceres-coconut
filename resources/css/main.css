@@ -506,7 +506,7 @@ li.breadcrumb-item {
 }
 .page-content {
     background-color: #c4ced3;
-    margin-top: -20px;
+    margin-top: -50px;
 }
 
 .single-rightside {
@@ -603,7 +603,7 @@ h1.h2.title {
 }
 
 .legal-disclosure{
-	margin-top:50px;
+	margin-top:-14px;
 	background:#13394d;
 }
 .col-12.legal-disclosure > h1 {
