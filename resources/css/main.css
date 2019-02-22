@@ -34,7 +34,7 @@ body>#vue-app, body>#vue-error {
 .cart {
 	background: #106693;
 	position:relative;
-	
+	 
 }
 // right side backround for col-md-5
 .col-md-5.single-rightside {
@@ -597,7 +597,7 @@ div.producertag.h6.producer.text-muted {
 
 h1.h2.title {
     position: relative;
-    top: -12vw;
+    top: -14vw;
     color: #fff;
     left: -44vw;
 }
