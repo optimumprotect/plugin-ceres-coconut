@@ -1,1 +1,9 @@
 <!-- Insert markup for page design here -->
+ <div v-cloak v-if="$store.state.item.variation.documents && $store.state.item.variation.documents[0]">
+       		<h1 class="h2 title">
+                            <span>
+                                ${ $store.state.item.variation.documents[0].data | itemName }
+                            </span>
+    		</h1>
+       	
+ 		</div>
