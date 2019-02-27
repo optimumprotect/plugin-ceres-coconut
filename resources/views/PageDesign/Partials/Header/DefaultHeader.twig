@@ -90,7 +90,7 @@
 {% if not services.template.isHome() and not services.template.isMyAccount() and not services.template.isCheckout() %}
     {% include "Ceres::PageDesign.Partials.Header.Breadcrumb" %}
 {% endif %}
- <div v-cloak v-if="$store.state.item.variation.documents && $store.state.item.variation.documents[0]">
+ <div v-cloak v-if="$store.state.item.variation.documents and $store.state.item.variation.documents[0]">
        		<h1 class="h2 title">
                             <span>
                                 ${ $store.state.item.variation.documents[0].data | itemName }
