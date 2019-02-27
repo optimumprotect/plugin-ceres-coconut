@@ -13,6 +13,7 @@
 
             {% set break = false %}
             {% for category in categoryBreadcrumbs[:categoryBreadcrumbs | length - 1] if not break %}
+             {{ dump(category)}}
                 {% if category.details[0] %}
                     <li class="breadcrumb-item">
                         <a href="{{ services.category.getURLById( category.id ) }}">{{ category.details[0].name }}</a>
