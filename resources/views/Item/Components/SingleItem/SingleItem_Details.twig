@@ -3,11 +3,11 @@
         ${ currentVariation.item.manufacturer.externalName }
     </div>
 
-    <h1 class="h2 title">
+    <!--h1 class="h2 title">
         <span>
             ${ currentVariation | itemName }
         </span>
-    </h1>
+    </h1-->
 
     {% if ('item.shortDescription' in itemData or 'all' in itemData)%}
         <p class="single-description" v-if="currentVariation.texts.shortDescription !== ''" v-html="currentVariation.texts.shortDescription"></p>
